@@ -1,0 +1,18 @@
+{
+    "init_fee_pool": 10000000,
+    "network": 2,
+    "init_coindata": {
+      "covhash": "t731ej8m8bvja5xjqxe6z44s6q72yab4p13p5pgtv6v6g3byg9gav0",
+      "denom": "73",
+      "value": 0,
+      "additional_data": ""
+    },
+    "stakes": {
+      "0000000000000000000000000000000000000000000000000000000000000000": {
+        "e_post_end": 100000,
+        "e_start": 0,
+        "pubkey": "dba65d6d6c4896ed23e15c4bdf8303c639d7d003ee41ee58eacfa91f4797e544",
+        "syms_staked": 100000
+      }
+    }
+  }
